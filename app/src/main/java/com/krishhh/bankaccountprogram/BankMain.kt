@@ -7,7 +7,7 @@ fun main(){
 
     krishBankAccount.deposit(200.0)
     krishBankAccount.withdraw(500.0)
-    krishBankAccount.deposit(30000.0)
+    krishBankAccount.deposit(3000.0)
     krishBankAccount.deposit(5000.0)
     krishBankAccount.withdraw(1500.0)
     krishBankAccount.displayTransactionHistory()
